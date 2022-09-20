@@ -24,7 +24,7 @@ const createworkspace = () => {
 	nwsp.value=''
 }
 const wops = ref([
-	{ id: 122, name: "Test" },
+	{ id: 122, name: "Test 33" },
 	{ id: 150, name: "New Work space" }
 	
 ])
